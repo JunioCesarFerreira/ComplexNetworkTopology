@@ -31,4 +31,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [`LICENSE`](LI
 
 ## Contato
 
-Se você tiver qualquer dúvida ou sugestão, não hesite em abrir uma **issue** neste repositório ou entrar em contato através do [meu perfil do LinkedIn](https://www.linkedin.com/in/junio-cesar-ferreira/).
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma **issue** neste repositório. Você também pode entrar em contato comigo através do [meu perfil no LinkedIn](https://www.linkedin.com/in/junio-cesar-ferreira/) ou por email em jcf_ssp@hotmail.com.
